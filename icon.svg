@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="110" fill="#E8602A"/>
+  <!-- Fork left -->
+  <rect x="148" y="110" width="18" height="90" rx="9" fill="white"/>
+  <rect x="178" y="110" width="18" height="90" rx="9" fill="white"/>
+  <rect x="208" y="110" width="18" height="90" rx="9" fill="white"/>
+  <path d="M148 195 Q178 230 178 260 L196 260 Q196 230 226 195 Z" fill="white"/>
+  <rect x="187" y="255" width="18" height="145" rx="9" fill="white"/>
+  <!-- Knife right -->
+  <rect x="310" y="110" width="18" height="290" rx="9" fill="white"/>
+  <path d="M328 110 Q370 140 370 210 L328 230 Z" fill="white"/>
+</svg>
